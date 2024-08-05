@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1720687705 source:c:\users\hamidreza\desktop\test_c\test_alg\ecg_clean.c
+	"ecg_clean.h"
+	<math.h>
+	<string.h>
+
+1720606644 c:\users\hamidreza\desktop\test_c\test_alg\ecg_clean.h
+	<stdint.h>
+	<stddef.h>
+
+1720293917 source:c:\users\hamidreza\desktop\test_c\test_alg\neurokit2.c
+	"neurokit2.h"
+	<string.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1720293794 c:\users\hamidreza\desktop\test_c\test_alg\neurokit2.h
+	<stddef.h>
+
+1720693611 source:c:\users\hamidreza\desktop\test_c\test_alg\pan_tompkins.c
+	"pan_tompkins.h"
+	<math.h>
+
+1720692385 c:\users\hamidreza\desktop\test_c\test_alg\pan_tompkins.h
+	<stdio.h>
+	<stdlib.h>
+
+1720768789 source:c:\users\hamidreza\desktop\test_c\test_alg\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ecg_clean.h"
+	"filter.h"
+	"PanTompkins.h"
+
+1720689556 source:c:\users\hamidreza\desktop\test_c\test_alg\filter.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"filter.h"
+	<stddef.h>
+
+1720689548 c:\users\hamidreza\desktop\test_c\test_alg\filter.h
+
+1659369037 source:c:\users\hamidreza\desktop\test_c\test_alg\pantompkinscmd.c
+	<stdio.h>
+	<stdlib.h>
+	"PanTompkins.h"
+
+1720708578 c:\users\hamidreza\desktop\test_c\test_alg\pantompkins.h
+	<stdint.h>
+	<string.h>
+
+1659369037 source:c:\users\hamidreza\desktop\test_c\test_alg\pantompkins.c
+	"PanTompkins.h"
+
+1720729105 source:c:\users\artapc\desktop\test_c\test_c\test_alg\ecg_clean.c
+	"ecg_clean.h"
+	<math.h>
+	<string.h>
+
+1720648044 c:\users\artapc\desktop\test_c\test_c\test_alg\ecg_clean.h
+	<stdint.h>
+	<stddef.h>
+
+1720730956 source:c:\users\artapc\desktop\test_c\test_c\test_alg\filter.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"filter.h"
+	<stddef.h>
+
+1720730948 c:\users\artapc\desktop\test_c\test_c\test_alg\filter.h
+
+1722828516 source:c:\users\artapc\desktop\test_c\test_c\test_alg\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ecg_clean.h"
+	"filter.h"
+	"PanTompkins.h"
+
+1720749978 c:\users\artapc\desktop\test_c\test_c\test_alg\pantompkins.h
+	<stdint.h>
+	<string.h>
+
+1659410437 source:c:\users\artapc\desktop\test_c\test_c\test_alg\pantompkins.c
+	"PanTompkins.h"
+
