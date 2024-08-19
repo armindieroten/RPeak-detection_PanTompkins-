@@ -7,4 +7,4 @@
 1. Install the required dependencies by running:
    ```bash
    !pip install -r requirements.txt
-2. Open the `ECG_Real-Time_Plotting.ipynb` file and modify the `serial.Serial()` parameters to match your configuration (e.g., COM port, baud rate, parity, etc.).
+2. IN `ECG_Real-Time_Plotting.ipynb` modify the `serial.Serial()` parameters to match your configuration (e.g., COM port, baud rate, parity, etc.).
